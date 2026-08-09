@@ -172,13 +172,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "798c37f269089103",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81ef19537a5bc9f6",
+  "active": "47b915ad981da810",
   "lastOpenFiles": [
     "2342.md",
     "Добро пожаловать.md"
